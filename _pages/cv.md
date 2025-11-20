@@ -13,13 +13,15 @@ author_profile: true
 - B.S. in Statistics & Operations Research and Mathematics, UNC- Chapel Hill [May, 2025]
 
 ## Honors
-
-- 
+- Highest Honors in Statistics Department (2/178)
+- Honors Carolina Laureate (Top 10% of graduating class)
+- Summer Research Award ($5,000+ research funding)
+- Dean’s List (multiple semesters)
 
 ## Research Interests
 
-- Optimization algorithms (quasi-Newton, block-coordinate methods)
-- Data-driven operations and healthcare operations
-- Machine learning for EMS stroke triage
+- Optimization algorithms (theory & applications)
+- Data-driven operations for healthcare and business
+- Machine learning and AI for Operations
 
 See CV for details.
