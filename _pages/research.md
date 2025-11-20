@@ -13,7 +13,7 @@ Submitted to _Computational Optimization and Applications_. Draft available [her
 
 ---
 
-## Data-driven EMS stroke triage** (with Ali Parlaktürk, Chudi Zhong)  
+## Data-Driven EMS Stroke Triage under Missed-Stroke Constraints (with Ali Parlaktürk, Chudi Zhong)  
 We linked EMS–hospital data to study how machine learning and constrained classification can improve prehospital stroke triage. Current EMS screening tools are designed to be simple and fast, but they can miss clinically important stroke cases or flag too many non-stroke patients. I am working on models that use a richer feature set while explicitly constraining error trade-offs, for example by enforcing an upper bound on the false negative rate or by prioritizing performance in low–false-positive regions of the ROC curve. The broader goal is to translate these models into decision rules that are interpretable enough for EMS use and compatible with downstream stroke workflows in the hospital.
 
 _Manuscript in Progress_
