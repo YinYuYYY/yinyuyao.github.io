@@ -13,8 +13,8 @@ title                    : "Yinyu Yao | Optimization & Data-Driven Operations"
 title_separator          : "-"
 name                     : &name "Yinyu Yao"
 description              : &description "BS–MS student in Statistics & Operations Research and Mathematics at UNC–Chapel Hill, working on optimization algorithms and data-driven operations with applications to healthcare."
-url                      : https://yinyuyao.github.io # The base hostname & protocol for your site
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : "https://yinyuyyy.github.io"
+baseurl                  : "/yinyuyao.github.io"
 repository               : "yinyuyao/yinyuyao.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
