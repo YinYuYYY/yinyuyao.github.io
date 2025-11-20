@@ -10,7 +10,7 @@ author_profile: true
 **Block-coordinate BFGS for convex non-smooth optimization** (with Michael O’Neill)  
 We develop and analyze a block-coordinate BFGS method for convex non-smooth problems with overlapping group regularizers. The goal is to combine curvature information from quasi-Newton methods with the structure of block-coordinate descent and to compare convergence and empirical performance against proximal-gradient–type baselines on large-scale problems.
 
-_Status: Manuscript in preparation. Draft available [here](/files/Block_BFGS_paper.pdf)._
+_Status: Manuscript in preparation. Draft available [Block BFGS]({{ site.baseurl }}/files/Block_BFGS_paper.pdf)._
 
 ---
 
