@@ -5,18 +5,16 @@ permalink: /research/
 author_profile: true
 ---
 
-## Manuscripts in preparation
 
-**Block-coordinate BFGS for convex non-smooth optimization** (with Michael O’Neill)  
-We develop and analyze a block-coordinate BFGS method for convex non-smooth problems with overlapping group regularizers. The goal is to combine curvature information from quasi-Newton methods with the structure of block-coordinate descent and to compare convergence and empirical performance against proximal-gradient–type baselines on large-scale problems.
+## Block-coordinate BFGS for convex non-smooth optimization (with Michael O’Neill)  
+I study a block-coordinate BFGS method for convex non-smooth optimization problems with overlapping group regularizers. The idea is to combine the curvature information of quasi-Newton methods with the structural advantages of block-coordinate descent: at each iteration, we update a block-specific approximation to the Hessian while respecting the sparsity pattern induced by groups. On the theory side, I focus on establishing convergence under mild assumptions and understanding when blockwise curvature updates help compared to first-order methods. On the empirical side, I compare the method to proximal-gradient–type baselines on synthetic and real datasets, looking at both convergence speed and solution quality for large-scale structured problems.
 
-_Status: Manuscript in preparation. Draft available [here]({{ '/files/Block_BFGS_paper.pdf' | relative_url }})._
+Submitted to _Computational Optimization and Applications_. Draft available [here]({{ '/files/Block_BFGS_paper.pdf' | relative_url }}).
 
 ---
 
-## Work in progress
+## Data-driven EMS stroke triage** (with Ali Parlaktürk, Chudi Zhong)  
+We linked EMS–hospital data to study how machine learning and constrained classification can improve prehospital stroke triage. Current EMS screening tools are designed to be simple and fast, but they can miss clinically important stroke cases or flag too many non-stroke patients. I am working on models that use a richer feature set while explicitly constraining error trade-offs, for example by enforcing an upper bound on the false negative rate or by prioritizing performance in low–false-positive regions of the ROC curve. The broader goal is to translate these models into decision rules that are interpretable enough for EMS use and compatible with downstream stroke workflows in the hospital.
 
-**Data-driven EMS stroke triage** (with Ali Parlaktürk, et al.)  
-This project uses linked EMS–hospital data to study how constrained classification and machine learning can improve prehospital stroke triage. We focus on reducing false negatives for high-risk stroke patients while keeping false positives within operational limits, and on understanding which EMS fields (chief complaint, neurologic deficits, vascular risk factors) drive triage performance.
-
-_Status: Ongoing work; model development and empirical analysis in progress._
+_Manuscript in Progress_
+ 
