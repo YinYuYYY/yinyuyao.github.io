@@ -14,8 +14,8 @@ title_separator          : "-"
 name                     : &name "Yinyu Yao"
 description              : &description "BS–MS student in Statistics & Operations Research and Mathematics at UNC–Chapel Hill, working on optimization algorithms and data-driven operations with applications to healthcare."
 url                      : "https://yinyuyyy.github.io"
-baseurl                  : "/yinyuyao.github.io"
-repository               : "yinyuyao/yinyuyao.github.io"
+baseurl                  : "/yinyuyao"
+repository               : "yinyuyao"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
