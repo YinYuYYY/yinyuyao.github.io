@@ -7,15 +7,20 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Yinyu Yao | Optimization & Data-Driven Operations"
-title_separator          : "-"
-name                     : &name "Yinyu Yao"
-description              : &description "BS–MS student in Statistics & Operations Research and Mathematics at UNC–Chapel Hill, working on optimization algorithms and data-driven operations with applications to healthcare."
-url                      : "https://yinyuyyy.github.io"
-baseurl                  : "/yinyuyao"
-repository               : "yinyuyao"
+locale      : "en-US"
+site_theme  : "default"
+title       : "Yinyu Yao"
+title_separator : "-"
+name        : &name "Yinyu Yao"
+description : &description "BS–MS student in Statistics & Operations Research and Mathematics at UNC–Chapel Hill."
+
+# IMPORTANT: these two lines must match your new account + repo
+url         : "https://yinyu-yao.github.io"
+baseurl     : "/personal"
+
+# Also update this:
+repository  : "yinyu-yao/personal"
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
