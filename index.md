@@ -3,8 +3,8 @@ layout: single
 title: "Yinyu Yao"
 author_profile: true
 header:
-  overlay_image: "/images/UNC.avif"
-  overlay_filter: 0.25   # 0 = no darkening, 1 = fully dark; tweak if text is hard to read
+  overlay_image: "/images/unc_bg.avif"
+  overlay_filter: 0.25
 ---
 
 Welcome! I am **Yinyu Yao**, a BS–MS student in Statistics & Operations Research and Mathematics at the University of North Carolina at Chapel Hill.
