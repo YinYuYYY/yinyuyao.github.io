@@ -3,7 +3,7 @@ site_theme  : "default"
 title       : "Yinyu Yao"
 title_separator : "-"
 name        : &name "Yinyu Yao"
-description : &description "BS–MS student in Statistics & Operations Research and Mathematics at UNC–Chapel Hill."
+description : &description "BS–MS student in Stat&Math at UNC–Chapel Hill."
 
 url         : "https://yinyu-yao.github.io"   # NO /personal here
 baseurl     : "/personal"                     # repo name WITH leading slash
