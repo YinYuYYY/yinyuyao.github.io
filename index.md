@@ -2,9 +2,6 @@
 layout: single
 title: "Yinyu Yao"
 author_profile: true
-header:
-  overlay_image: "/images/unc_bg.avif"
-  overlay_filter: 0.25
 ---
 
 Welcome! I am **Yinyu Yao**, a BS–MS student in Statistics & Operations Research and Mathematics at the University of North Carolina at Chapel Hill.
