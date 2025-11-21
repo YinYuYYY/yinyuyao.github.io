@@ -9,8 +9,8 @@ author_profile: true
 
 ## Education
 
-- M.S. in Statistics & Operations Research, UNC- Chapel Hill [(expected) May, 2026]
-- B.S. in Statistics & Operations Research and Mathematics, UNC- Chapel Hill [May, 2025]
+- M.S. in Statistics, Analytics and Data Science, UNC- Chapel Hill [(expected) May, 2026]
+- B.S. in Statistics & Analytics and Mathematics, UNC- Chapel Hill [May, 2025]
 
 ## Honors
 - Highest Honors in Statistics Department (2/178)
